@@ -1,4 +1,5 @@
 import { Schema, model } from 'mongoose'
+
 //Cluster: conjunto de base de datos (el link de mongo que obitenen es de claster)
 //DataBase: conjunto de colecciones (coleccion hace referencia a recursos y recursos hace referencia a los modelos de datos que necesita mi app)
 //coleccion: conjunto de documentos
