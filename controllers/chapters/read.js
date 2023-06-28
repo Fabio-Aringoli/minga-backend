@@ -15,6 +15,3 @@ export default function(req,res){
         })
     }
 }
-
-//definir los controladores READ de  users como este controller
-//definir para la tarea minga-08 el controlador READ de categories igual al de authors
